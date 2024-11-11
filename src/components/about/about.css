@@ -1,0 +1,9 @@
+.about {
+    text-align: center;
+    width:50%;
+    margin: auto;
+}
+
+.about-board-member {
+    display: flex;
+}
